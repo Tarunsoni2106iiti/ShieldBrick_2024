@@ -18,7 +18,7 @@ const Footer = () => {
                <p className='text-white-200
                                md:mt-10 my-5
                                text-center'>
-                Reach us out today and Let's be the diffrence
+                Reach us out today and Let us all together be the diffrence
                 for a better future for all.
                </p>
                <a href='mailto:#'>
