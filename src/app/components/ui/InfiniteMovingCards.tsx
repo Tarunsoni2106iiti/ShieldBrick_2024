@@ -110,7 +110,7 @@ export const InfiniteMovingCards = ({
               <div className="relative z-20 mt-6 flex flex-row items-center">
                 <span className="flex flex-col gap-1">
                   <div className="me-3">
-                    <img src={item.img} alt="profile"
+                    <img src="./profile.svg" alt="profile"
                     width={80}
                     height={80}
                     style={{ borderRadius: "100%" }}/>
