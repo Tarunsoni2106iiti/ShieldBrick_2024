@@ -19,7 +19,13 @@ const Approach = () => {
         <Card 
         title="Planning & Strategy" 
         icon={<AceternityIcon order='Phase 1'/>}
-        description="Lorem ipsum"
+        description="Effective planning and strategy are crucial for achieving any goal. 
+        It involves setting clear objectives, identifying resources required,
+         and creating a comprehensive timeline. In the realm of civil engineering,
+          planning and strategy help in organizing effecient work, optimizing performance, 
+          and ensuring scalability. A well-thought-out plan and strategy lay the
+           foundation for successful 
+           implementation and desired outcomes"
         
         
         
@@ -32,7 +38,13 @@ const Approach = () => {
         <Card 
         title="Reasearch & Analysis" 
         icon={<AceternityIcon order='Phase 2'/>}
-        description="Lorem ipsum">
+        description="Research & Analysis play a key role in making informed decisions. 
+        Effective research involves gathering relevant data and information from reliable sources, 
+        while analysis involves examining and interpreting that data to draw meaningful insights. 
+        In the civil engineering field, research and analysis help in understanding user needs, 
+        identifying problem areas, and finding the best solutions. 
+        This process enables developers to make data-driven decisions 
+        and create efficient and effective engineering solutions">
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-black"
@@ -47,7 +59,17 @@ const Approach = () => {
         <Card 
         title="Product development" 
         icon={<AceternityIcon order='Phase 3'/>}
-        description="Lorem ipsum">
+        description="Product development in civil engineering refers to the process of 
+        creating and improving infrastructure and construction projects. 
+        It involves identifying the needs and requirements of the project, 
+        conducting feasibility studies, 
+        designing the structure, performing structural analysis and calculations, 
+        creating prototypes, and implementing the final product. 
+        In civil engineering, 
+        product development ensures that construction projects are designed 
+        and executed to meet safety standards, 
+        environmental regulations, 
+        and client expectations.">
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-sky-600"

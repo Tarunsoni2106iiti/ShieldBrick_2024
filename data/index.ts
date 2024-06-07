@@ -1,8 +1,9 @@
 export const navItems = [
+    { name: "Home", link: "#contact" },
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
     { name: "Insights", link: "#testimonials" },
-    { name: "Contact", link: "#contact" },
+    
   ];
   
   export const gridItems = [
@@ -110,24 +111,28 @@ export const navItems = [
         "A must need change for all, that's what we are anticipating and are expecting to establish. A environment that we can only dream of only. mI guess that's enough of what i can say in this short paragraph.",
       name: "Tarun Soni",
       title: "Founder-Shield Bricks",
+      img:"./team/tarun.png",
     },
     {
       quote:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Phasellus aenean vehicula magna ut feugiat eros. Curabitur dictum sem vivamus convallis.",
       name: "Sanchit Gupta",
       title: "God-father types kuch",
+      img:"./team/sanchit.png",
     },
     {
       quote:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Phasellus aenean vehicula magna ut feugiat eros. Curabitur dictum sem vivamus convallis.",
       name: "Lorem ipsum",
       title: "Lorem ipsum dolor sit amet",
+      img:"./team/sanchit.png",
     },
     {
        quote:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Phasellus aenean vehicula magna ut feugiat eros. Curabitur dictum sem vivamus convallis.",
        name: "Lorem ipsum",
        title: "Lorem ipsum dolor sit amet",
+       img:"./profile.svg",
    },
 // {
 //   quote:
@@ -204,15 +209,18 @@ export const navItems = [
   export const socialMedia = [
     {
       id: 1,
-      img: "/git.svg",
+      img: "/mail.png",
+      link:'https://www.instagram.com/shield_bricks/',
     },
     {
       id: 2,
-      img: "/twit.svg",
+      img: "/whatsapp.png",
+      link:'https://www.instagram.com/shield_bricks/',
     },
     {
       id: 3,
-      img: "/link.svg",
+      img: "/instagram.png",
+      link:'https://www.instagram.com/shield_bricks/',
     },
   ];
 
