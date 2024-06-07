@@ -18,10 +18,10 @@ const Footer = () => {
                <p className='text-white-200
                                md:mt-10 my-5
                                text-center'>
-                Reach us out today and Let us all together be the diffrence
+                Reach us out today and Let us all be the diffrence
                 for a better future for all.
                </p>
-               <a href='mailto:#'>
+               <a href='mailto:ce210004049@iiti.ac.in'>
                 <MagicButton
                            title="Let's get in touch"
                            icon={<FaLocationArrow/>}
@@ -45,11 +45,15 @@ const Footer = () => {
                                                              saturate-180
                                                              bg-opacity-75 bg-black-200 rounded-lg border
                                                               border-black-300'>
-                            <img src={profile.img} 
+                            <a href={profile.link}>
+                              
+                              <img src={profile.img} 
                                 width={20}
                                 height={20}
+                                style={{ filter: "invert(100%)", backgroundColor: "white" }}
                             />
-
+                            </a>
+                            
 
                           </div>
 
