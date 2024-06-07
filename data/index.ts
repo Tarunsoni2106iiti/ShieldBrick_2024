@@ -82,7 +82,7 @@ export const navItems = [
     {
       id: 2,
       title: "Impact Resisting high friction Tiles",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+      des: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Phasellus aenean vehicula magna ut feugiat eros.",
       img: "/p2.svg",
       iconLists: ["/exp4.png"],
       link: "https://www.instagram.com/shield_bricks/",
@@ -90,7 +90,7 @@ export const navItems = [
     {
       id: 3,
       title: "Treatment processes of RCA",
-      des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+      des: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Phasellus aenean vehicula magna ut feugiat eros.",
       img: "/p3.svg",
       iconLists: ["/exp4.png"],
       link: "https://www.instagram.com/shield_bricks/",
@@ -98,7 +98,7 @@ export const navItems = [
     {
       id: 4,
       title: "Colourized ready to install Bricks",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+      des: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Phasellus aenean vehicula magna ut feugiat eros.",
       img: "/p4.svg",
       iconLists: ["/exp4.png"],
       link: "https://www.instagram.com/shield_bricks/",
